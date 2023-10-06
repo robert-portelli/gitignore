@@ -172,3 +172,6 @@ index.js
 /job-aggregator-working-dir
 # go built binary
 /job-run-aggregator
+
+# google app engine config
+app.yaml
